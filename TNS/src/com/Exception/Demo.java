@@ -1,0 +1,8 @@
+package com.Exception;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		Division.divide();
+}
+}
